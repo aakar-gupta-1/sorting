@@ -1,0 +1,7 @@
+{
+    "java.project.sourcePaths": [
+        "MergeSort",
+        "BubbleSort.java",
+        "InsertionSort.java"
+    ]
+}
